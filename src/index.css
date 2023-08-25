@@ -19,10 +19,11 @@ html {
 
 body {
   height: 100vh;
-  color: #495057;
+  color: #8f8c00;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(0, 0, 0);
 }
 
 .app {
